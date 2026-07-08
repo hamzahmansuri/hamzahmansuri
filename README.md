@@ -1,6 +1,6 @@
 # Hi, I'm Hamzah Mansuri 👋
 
-Math-CS student at UC San Diego, graduating December 2026.
+Math-CS major and Business Economics minor student at UC San Diego, graduating December 2026.
 
 I'm currently building data and full-stack projects to solve real problems
 while finishing my degree a full semester early.
